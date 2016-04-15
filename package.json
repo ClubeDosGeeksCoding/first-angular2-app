@@ -5,6 +5,11 @@
   "devDependencies": {
     "typescript": "*",
     "systemjs":"*",
-    "angular2":"*"
+    "angular2":"*",
+    "express":"*",
+    "sqlite-sync":"*"
+  },
+  "scripts":{
+  	"start":"node server && start http://localhost:3000"
   }
 }
