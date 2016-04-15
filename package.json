@@ -1,9 +1,10 @@
 {
-  "name": "typescript-systemjs",
+  "name": "angular2",
   "version": "1.0.0",
   "description": "Repositório para tutorial do Clube dos Geeks",
   "devDependencies": {
     "typescript": "*",
-    "systemjs":"*"
+    "systemjs":"*",
+    "angular2":"*"
   }
 }
