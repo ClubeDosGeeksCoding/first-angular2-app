@@ -1,0 +1,9 @@
+{
+  "name": "typescript-systemjs",
+  "version": "1.0.0",
+  "description": "Repositório para tutorial do Clube dos Geeks",
+  "devDependencies": {
+    "typescript": "*",
+    "systemjs":"*"
+  }
+}
